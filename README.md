@@ -3,7 +3,7 @@ Egovt | An Uttarakhand initiative
 
 we have uploaded on a Server of 000webhost.
 
-https://rishabhs448.000webhostapp.com/
+https://egovtt.000webhostapp.com
 
 A PLATFORM (WEBSITE), AN INITIAVTIVE TOWARDS A SMART CITY.
 WHERE PEOPLE CAN RISE THEIR VOICES FOR THEIR RIGHTS AND FOR THE BETTERMENT OF THEIR CITY.
